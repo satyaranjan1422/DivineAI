@@ -1,0 +1,2 @@
+# DivineAI
+Learning Python
